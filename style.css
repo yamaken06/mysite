@@ -1,0 +1,1039 @@
+.site-title {
+  font-family: 'Concert One', cursive;
+}
+
+.top-content {
+  height: 670px;
+  background-image: url("./img/wood.jpg");
+  background-size: cover;
+}
+
+.top-content h1 {
+  padding-top: 110px;
+  padding-left: 80px;
+  color: #ffffff;
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.top-content h1 span {
+  font-size: 25px;
+}
+
+.btn-first {
+  margin-top: 50px;
+  margin-left: 160px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.img-smf {
+  margin-left: 130px;
+  margin-top: 24px;
+}
+
+.img-guard-smf {
+  position: absolute;
+  top: 20px;
+  left: 65px;
+  width: 322px;
+  height: 635px;
+  background-image: url("./img/guard.png");
+}
+
+.carousel-position {
+  position: absolute;
+  top: 96px;
+  left: 172px;
+}
+
+.smf-carousel {
+  width: 257px;
+  height: 465px;
+}
+
+.img-guard-carousel {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 257px;
+  height: 465px;
+  background-image: url("./img/guard.png");
+}
+
+.desktopHidden {
+    display:none ;
+  }
+
+.small-text {
+  color: #969696;
+}
+
+.main-title {
+  font-size: 60px;
+}
+
+.jumbotron-radius {
+border-radius: 0;
+}
+
+.main-ux {
+  height: 770px;
+}
+
+@media screen and (min-width: 1206px) and (max-width: 1273px) {
+  .top-content h1 {
+    font-size: 70px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1205px) {
+  .top-content h1 {
+    font-size: 68px;
+  }
+}
+
+@media screen and (min-width: 1178px) and (max-width: 1199px) {
+  .top-content h1 {
+    font-size: 68px;
+  }
+  .btn-first {
+  margin-left: 100px;
+  }
+  .img-smf {
+  margin-left: 55px;
+  }
+  .carousel-position {
+  left: 97px;
+  }
+}
+
+@media screen and (min-width: 1044px) and (max-width: 1177px) {
+  .top-content h1 {
+    font-size: 62px;
+    padding-left: 50px;
+  }
+  .btn-first {
+  margin-left: 88px;
+  margin-top: 100px;
+  }
+  .img-smf {
+  margin-left: 55px;
+  }
+  .carousel-position {
+  left: 97px;
+  }
+  .main-title {
+    font-size: 55px
+  }
+}
+
+@media screen and (min-width: 976px) and (max-width: 1043px) {
+  .top-content h1 {
+    font-size: 60px;
+    padding-left: 25px;
+  }
+  .btn-first {
+  margin-left: 60px;
+  margin-top: 100px;
+  }
+  .img-smf {
+  margin-left: 55px;
+  }
+  .carousel-position {
+  left: 97px;
+  }
+  .main-title {
+    font-size: 55px
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 975px) {
+  .top-content h1 {
+    font-size: 55px;
+    padding-left: 5px;
+  }
+  .btn-first {
+  margin-left: 32px;
+  margin-top: 100px;
+  }
+  .img-smf {
+  margin-left: 33px;
+  }
+  .img-guard-smf {
+  top: 15px;
+  left: 42px;
+  }
+  .carousel-position {
+  left: 75px;
+  }
+  .main-title {
+    font-size: 50px
+  }
+}
+
+@media screen and (min-width: 820px) and (max-width: 899px) {
+  .top-content h1 {
+    font-size: 45px;
+    padding-left: 0px;
+    line-height: 68px;
+  }
+  .btn-first {
+  margin-left: 0px;
+  margin-top: 100px;
+  }
+  .img-smf {
+  margin-left: 5px;
+  }
+  .img-guard-smf {
+  top: 15px;
+  left: 15px;
+  }
+  .carousel-position {
+  left: 47px;
+  }
+  .main-title {
+    font-size: 47px
+  }
+}
+
+@media screen and (min-width: 730px) and (max-width: 819px) {
+  .top-content h1 {
+    font-size: 35px;
+    padding-left: 0px;
+    line-height: 68px;
+  }
+  .btn-first {
+  margin-left: 8px;
+  margin-top: 100px;
+  padding-right: 65px;
+  padding-left: 65px;
+  }
+  .img-smf {
+  margin-left: -30px;
+  }
+  .img-guard-smf {
+  top: 15px;
+  left: -20px;
+  }
+  .carousel-position {
+  left: 12px;
+  }
+  .main-title {
+    font-size: 40px
+  }
+}
+
+@media screen and (min-width: 680px) and (max-width: 729px) {
+  .top-content h1 {
+    font-size: 31px;
+    padding-left: 0px;
+    line-height: 68px;
+  }
+  .top-content h1 span {
+  font-size: 20px;
+  }
+  .btn-first {
+  margin-left: 0px;
+  margin-top: 100px;
+  padding-right: 40px;
+  padding-left: 40px;
+  }
+  .img-smf {
+  margin-left: -55px;
+  }
+  .img-guard-smf {
+  top: 15px;
+  left: -45px;
+  }
+  .carousel-position {
+  left: -13px;
+  }
+  .main-title {
+    font-size: 33px
+  }
+}
+
+@media screen and (min-width: 620px) and (max-width: 679px) {
+  .top-content h1 {
+    font-size: 30px;
+    padding-left: 0px;
+    line-height: 68px;
+  }
+  .top-content h1 span {
+  font-size: 20px;
+  }
+  .btn-first {
+  margin-left: 0px;
+  margin-top: 100px;
+  padding-right: 40px;
+  padding-left: 40px;
+  }
+  .img-smf {
+  margin-left: -20px;
+  width: 235px;
+  padding-top: 65px;
+  }
+  .img-guard-smf {
+  top: 82px;
+  left: -12px;
+  width: 248px;
+  height: 480px;
+  }
+  .carousel-position {
+  top: 143px;
+  left: 15px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .main-title {
+    font-size: 30px
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 619px) {
+  .top-content h1 {
+    font-size: 28px;
+    padding-left: 0px;
+    line-height: 68px;
+  }
+  .top-content h1 span {
+  font-size: 18px;
+  }
+  .btn-first {
+  margin-left: 0px;
+  margin-top: 100px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-left: -20px;
+  width: 235px;
+  padding-top: 65px;
+  }
+  .img-guard-smf {
+  top: 82px;
+  left: -12px;
+  width: 248px;
+  height: 480px;
+  }
+  .carousel-position {
+  top: 143px;
+  left: 15px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 546px) and (max-width: 575px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 38px;
+    padding-left: 58px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 23px;
+  }
+  .btn-first {
+  margin-left: 149px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 140px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 148px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 175px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 516px) and (max-width: 545px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 38px;
+    padding-left: 50px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 23px;
+  }
+  .btn-first {
+  margin-left: 139px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 130px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 139px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 165px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 483px) and (max-width: 515px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 38px;
+    padding-left: 40px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 23px;
+  }
+  .btn-first {
+  margin-left: 120px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 110px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 119px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 145px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 466px) and (max-width: 482px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 36px;
+    padding-left: 25px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 23px;
+  }
+  .btn-first {
+  margin-left: 107px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 95px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 103px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 130px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 431px) and (max-width: 465px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 36px;
+    padding-left: 9px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 23px;
+  }
+  .btn-first {
+  margin-left: 92px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 80px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 89px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 115px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 394px) and (max-width: 430px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 33px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 20px;
+  }
+  .btn-first {
+  margin-left: 79px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 67px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 75px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 102px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 369px) and (max-width: 393px) {
+  .top-content {
+  height: 770px;
+  }
+  .top-content h1 {
+    font-size: 30px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 19px;
+  }
+  .btn-first {
+  margin-left: 66px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 54px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 62px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 89px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 351px) and (max-width: 368px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 27px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 18px;
+  }
+  .btn-first {
+  margin-left: 57px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 45px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 54px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 80px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 336px) and (max-width: 350px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 25px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 17px;
+  }
+  .btn-first {
+  margin-left: 47px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 35px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 44px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 70px;
+  }
+  .main-title {
+    font-size: 28px
+  }
+}
+
+@media screen and (min-width: 326px) and (max-width: 335px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 24px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 17px;
+  }
+  .btn-first {
+  margin-left: 42px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 30px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 39px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 65px;
+  }
+  .main-title {
+    font-size: 25px
+  }
+}
+
+@media screen and (min-width: 307px) and (max-width: 325px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 23px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 17px;
+  }
+  .btn-first {
+  margin-left: 36px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 24px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 32px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 59px;
+  }
+  .main-title {
+    font-size: 25px
+  }
+}
+
+@media screen and (min-width: 0px) and (max-width: 306px) {
+  .top-content {
+  height: 750px;
+  }
+  .top-content h1 {
+    font-size: 23px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .top-content h1 span {
+  font-size: 15px;
+  }
+  .btn-first {
+  margin-left: 25px;
+  margin-top: 37px;
+  padding-right: 30px;
+  padding-left: 30px;
+  }
+  .img-smf {
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 235px;
+  padding-top: 0px;
+  }
+  .img-guard-smf {
+  top: 7px;
+  left: 24px;
+  width: 248px;
+  height: 480px;
+  }
+  .smf-carousel {
+  width: 194px;
+  height: 350px;
+  }
+  .img-guard-carousel {
+  position: absolute;
+  width: 194px;
+  height: 350px;
+  }
+  .mobileHidden {
+    display:none ;
+  }
+  .desktopHidden {
+    display: inline;
+  }
+  .col-5 {
+  position: relative;
+  }
+  .carousel-position {
+  position: absolute;
+  top: 69px;
+  left: 50px;
+  }
+  .main-title {
+    font-size: 25px
+  }
+}
